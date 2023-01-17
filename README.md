@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <b>@al1can</b>
-- 👀 I’m interested in <b>Backend, Data Science, System Design</b>
+- 👀 I’m interested in <b>Backend, Data Science</b>
 - 🏆 I developed projects with <b>Laravel, Symfony, Asp.NET</b>
 - 🌱 I’m currently learning <b>Tensorflow</b>
 - ✍️ I’m planning to learn <b>Natural Language Processing</b>
